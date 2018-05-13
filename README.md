@@ -39,3 +39,6 @@ JSON Formatter -https://chrome.google.com/webstore/detail/json-formatter/bcjindc
 
 Cool Clock
 https://chrome.google.com/webstore/detail/cool-clock/icegcmhgphfkgglbljbkdegiaaihifce?hl=en
+
+Lorem Ipsum Generator
+https://chrome.google.com/webstore/detail/lorem-ipsum-generator-def/mcdcbjjoakogbcopinefncmkcamnfkdb?hl=en-US
