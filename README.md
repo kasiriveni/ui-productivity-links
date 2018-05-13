@@ -22,9 +22,9 @@ https://www.google.com/chrome/browser/desktop/index.html
 
 https://www.google.com/chrome/browser/canary.html
 
-https://www.mozilla.org/en-US/firefox/developer/
+https://www.mozilla.org/en-US/firefox/developer
 
-https://www.mozilla.org/en-US/firefox/new/
+https://www.mozilla.org/en-US/firefox/new
 
 ### Deployement
 
@@ -41,3 +41,4 @@ JSON Formatter -https://chrome.google.com/webstore/detail/json-formatter/bcjindc
 Cool Clock - https://chrome.google.com/webstore/detail/cool-clock/icegcmhgphfkgglbljbkdegiaaihifce?hl=en
 
 web-developer - https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm
+
