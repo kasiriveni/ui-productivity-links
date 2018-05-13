@@ -37,3 +37,5 @@ whatfont -https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbc
 
 JSON Formatter -https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa
 
+Cool Clock
+https://chrome.google.com/webstore/detail/cool-clock/icegcmhgphfkgglbljbkdegiaaihifce?hl=en
