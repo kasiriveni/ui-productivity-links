@@ -26,6 +26,11 @@ https://www.mozilla.org/en-US/firefox/developer
 
 https://www.mozilla.org/en-US/firefox/new
 
+### Softwares
+
+Print Scrn -  https://prnt.sc
+colorpicker - http://annystudio.com/software/colorpicker
+
 ### Deployement
 
 https://zeit.co/download
