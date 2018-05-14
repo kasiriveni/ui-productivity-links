@@ -32,7 +32,7 @@ https://zeit.co/download
 
 http://surge.sh
 
-https://www.heroku.com/
+https://www.heroku.com
 
 ### extensions
 
@@ -49,3 +49,7 @@ Page Ruler - https://chrome.google.com/webstore/detail/page-ruler/jlpkojjdgbllme
 
 Lorem Ipsum Generator- https://chrome.google.com/webstore/detail/lorem-ipsum-generator-def/mcdcbjjoakogbcopinefncmkcamnfkdb?hl=en-US
 
+### Framework extensions
+Angular -	https://chrome.google.com/webstore/detail/augury/elgalmkoelokbchhkhacckoklkejnhcd?hl=en
+
+React - https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en
