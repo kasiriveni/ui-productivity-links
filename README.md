@@ -34,11 +34,16 @@ http://surge.sh
 
 ### extensions
 
-whatfont -https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm
+Whatfont -https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm
 
 JSON Formatter -https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa
 
 Cool Clock - https://chrome.google.com/webstore/detail/cool-clock/icegcmhgphfkgglbljbkdegiaaihifce?hl=en
 
-web-developer - https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm
+Web-developer - https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm
+
+
+Page Ruler - https://chrome.google.com/webstore/detail/page-ruler/jlpkojjdgbllmedoapgfodplfhcbnbpn?hl=en-US
+
+Lorem Ipsum Generator- https://chrome.google.com/webstore/detail/lorem-ipsum-generator-def/mcdcbjjoakogbcopinefncmkcamnfkdb?hl=en-US
 
