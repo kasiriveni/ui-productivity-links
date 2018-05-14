@@ -32,6 +32,8 @@ https://zeit.co/download
 
 http://surge.sh
 
+https://www.heroku.com/
+
 ### extensions
 
 Whatfont -https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm
