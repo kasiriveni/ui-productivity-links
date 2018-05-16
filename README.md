@@ -2,7 +2,7 @@
 
 > list of daily productivity links
 
-### cheat-sheet
+### Cheat sheet
 
 https://docs.emmet.io/cheat-sheet
 
@@ -12,9 +12,12 @@ https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf
 
 https://websitesetup.org/wp-content/uploads/2016/10/wsu-css-cheat-sheet.pdf
 
-### css
-
 color code - http://www.color-hex.com
+
+### Free Accounts
+sentry -   https://sentry.io/welcome/
+circleci - https://circleci.com/
+
 
 ### Browser
 
@@ -39,7 +42,7 @@ http://surge.sh
 
 https://www.heroku.com
 
-### extensions
+### Extensions
 
 Whatfont -https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm
 
@@ -49,12 +52,12 @@ Cool Clock - https://chrome.google.com/webstore/detail/cool-clock/icegcmhgphfkgg
 
 Web-developer - https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm
 
-
 Page Ruler - https://chrome.google.com/webstore/detail/page-ruler/jlpkojjdgbllmedoapgfodplfhcbnbpn?hl=en-US
 
 Lorem Ipsum Generator- https://chrome.google.com/webstore/detail/lorem-ipsum-generator-def/mcdcbjjoakogbcopinefncmkcamnfkdb?hl=en-US
 
 ### Framework extensions
+
 Angular -	https://chrome.google.com/webstore/detail/augury/elgalmkoelokbchhkhacckoklkejnhcd?hl=en
 
 React - https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en
