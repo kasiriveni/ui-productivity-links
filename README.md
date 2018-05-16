@@ -58,3 +58,17 @@ Lorem Ipsum Generator- https://chrome.google.com/webstore/detail/lorem-ipsum-gen
 Angular -	https://chrome.google.com/webstore/detail/augury/elgalmkoelokbchhkhacckoklkejnhcd?hl=en
 
 React - https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en
+
+Redux DevTools -https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd?hl=en
+
+Vue.js devtools-https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd?hl=en
+
+### Github extensions
+
+githunt - https://chrome.google.com/webstore/detail/githunt/khpcnaokfebphakjgdgpinmglconplhp?hl=en
+
+Sourcegraph - https://chrome.google.com/webstore/detail/sourcegraph/dgjhfomjieaadpoljlnidmbgkdffpack?hl=en
+
+GitHub Helper -https://chrome.google.com/webstore/detail/github-helper/bnpgnjajoaimdcjjmfjegpjmbmbplobm?hl=en
+
+
