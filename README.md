@@ -12,6 +12,8 @@ https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf
 
 https://websitesetup.org/wp-content/uploads/2016/10/wsu-css-cheat-sheet.pdf
 
+markdown - https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf
+
 color code - http://www.color-hex.com
 
 ### Free Accounts
