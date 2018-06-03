@@ -76,4 +76,11 @@ Sourcegraph - https://chrome.google.com/webstore/detail/sourcegraph/dgjhfomjieaa
 
 GitHub Helper -https://chrome.google.com/webstore/detail/github-helper/bnpgnjajoaimdcjjmfjegpjmbmbplobm?hl=en
 
+### other extensions
+
+uBlock Plus Adblocker https://chrome.google.com/webstore/detail/ublock-plus-adblocker/oofnbdifeelbaidfgpikinijekkjcicg?hl=en-US
+ uBlock Adblocker Plus https://chrome.google.com/webstore/detail/ublock-adblocker-plus/pnhflmgomffaphmnbcogleagmloijbkd?hl=en-US
+ Adblock Plus https://chrome.google.com/webstore/detail/adblock-plus/cfhdojbkjhnklbpkdaibdccddilifddb/related?hl=en-US
+
+
 
