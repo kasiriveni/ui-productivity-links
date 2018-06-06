@@ -76,6 +76,8 @@ Sourcegraph - https://chrome.google.com/webstore/detail/sourcegraph/dgjhfomjieaa
 
 GitHub Helper -https://chrome.google.com/webstore/detail/github-helper/bnpgnjajoaimdcjjmfjegpjmbmbplobm?hl=en
 
+More  - https://github.com/stefanbuck/awesome-browser-extensions-for-github
+
 ### pretty-beautiful
 
 javascript - https://chrome.google.com/webstore/detail/pretty-beautiful-javascri/piekbefgpgdecckjcpffhnacjflfoddg?hl=en
