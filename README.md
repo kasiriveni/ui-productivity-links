@@ -91,3 +91,12 @@ uBlock Plus Adblocker https://chrome.google.com/webstore/detail/ublock-plus-adbl
 uBlock Adblocker Plus https://chrome.google.com/webstore/detail/ublock-adblocker-plus/pnhflmgomffaphmnbcogleagmloijbkd?hl=en-US
 
 Adblock Plus https://chrome.google.com/webstore/detail/adblock-plus/cfhdojbkjhnklbpkdaibdccddilifddb/related?hl=en-US
+
+### vscode 
+
+https://marketplace.visualstudio.com/items?itemName=techer.open-in-browser
+
+https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme
+
+https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme
+
