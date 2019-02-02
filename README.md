@@ -4,37 +4,33 @@
 
 ### Cheat sheet
 
-https://docs.emmet.io/cheat-sheet
+Emmet - https://docs.emmet.io/cheat-sheet
 
-https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf
+Vscode - https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf
 
-https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf
+Git - https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf
 
+Css -
 https://websitesetup.org/wp-content/uploads/2016/10/wsu-css-cheat-sheet.pdf
 
 markdown - https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf
 
-color code - http://www.color-hex.com
 
 ### Free Accounts
-sentry -   https://sentry.io/welcome/
-circleci - https://circleci.com/
 
+sentry - https://sentry.io/welcome/
+
+circleci - https://circleci.com/
 
 ### Browser
 
-https://www.google.com/chrome/browser/desktop/index.html
+Chrome - https://www.google.com/chrome/browser/desktop/index.html
 
-https://www.google.com/chrome/browser/canary.html
+Chrome (Developer) - https://www.google.com/chrome/browser/canary.html
 
-https://www.mozilla.org/en-US/firefox/developer
+Firefox - https://www.mozilla.org/en-US/firefox/new
 
-https://www.mozilla.org/en-US/firefox/new
-
-### Softwares
-
-Print Scrn -  https://prnt.sc
-colorpicker - http://annystudio.com/software/colorpicker
+Firefox (Developer)- https://www.mozilla.org/en-US/firefox/developer
 
 ### Deployement
 
@@ -44,7 +40,7 @@ http://surge.sh
 
 https://www.heroku.com
 
-### Extensions
+### Chrome Extensions
 
 Whatfont -https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm
 
@@ -58,9 +54,11 @@ Page Ruler - https://chrome.google.com/webstore/detail/page-ruler/jlpkojjdgbllme
 
 Lorem Ipsum Generator- https://chrome.google.com/webstore/detail/lorem-ipsum-generator-def/mcdcbjjoakogbcopinefncmkcamnfkdb?hl=en-US
 
+javascript - https://chrome.google.com/webstore/detail/pretty-beautiful-javascri/piekbefgpgdecckjcpffhnacjflfoddg?hl=en
+
 ### Framework extensions
 
-Angular -	https://chrome.google.com/webstore/detail/augury/elgalmkoelokbchhkhacckoklkejnhcd?hl=en
+Angular - https://chrome.google.com/webstore/detail/augury/elgalmkoelokbchhkhacckoklkejnhcd?hl=en
 
 React - https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en
 
@@ -70,26 +68,15 @@ Vue.js devtools-https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjm
 
 ### Github extensions
 
-githunt - https://chrome.google.com/webstore/detail/githunt/khpcnaokfebphakjgdgpinmglconplhp?hl=en
+Octotree -
+https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc?hl=en-US
 
-Sourcegraph - https://chrome.google.com/webstore/detail/sourcegraph/dgjhfomjieaadpoljlnidmbgkdffpack?hl=en
-
-GitHub Helper -https://chrome.google.com/webstore/detail/github-helper/bnpgnjajoaimdcjjmfjegpjmbmbplobm?hl=en
-
-More  - https://github.com/stefanbuck/awesome-browser-extensions-for-github
-
-### pretty-beautiful
-
-javascript - https://chrome.google.com/webstore/detail/pretty-beautiful-javascri/piekbefgpgdecckjcpffhnacjflfoddg?hl=en
+More - https://github.com/stefanbuck/awesome-browser-extensions-for-github
 
 ### other extensions
 
 uBlock Plus Adblocker https://chrome.google.com/webstore/detail/ublock-plus-adblocker/oofnbdifeelbaidfgpikinijekkjcicg?hl=en-US
 
- uBlock Adblocker Plus https://chrome.google.com/webstore/detail/ublock-adblocker-plus/pnhflmgomffaphmnbcogleagmloijbkd?hl=en-US
-	
- Adblock Plus https://chrome.google.com/webstore/detail/adblock-plus/cfhdojbkjhnklbpkdaibdccddilifddb/related?hl=en-US
-	
+uBlock Adblocker Plus https://chrome.google.com/webstore/detail/ublock-adblocker-plus/pnhflmgomffaphmnbcogleagmloijbkd?hl=en-US
 
-
-
+Adblock Plus https://chrome.google.com/webstore/detail/adblock-plus/cfhdojbkjhnklbpkdaibdccddilifddb/related?hl=en-US
