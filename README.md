@@ -94,9 +94,13 @@ Adblock Plus https://chrome.google.com/webstore/detail/adblock-plus/cfhdojbkjhnk
 
 ### vscode 
 
-https://marketplace.visualstudio.com/items?itemName=techer.open-in-browser
+Browser - https://marketplace.visualstudio.com/items?itemName=techer.open-in-browser
 
-https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme
+Theme - https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme
 
-https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme
+Icons - https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme
+
+Debugger - https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome
+
+Prettier - https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode
 
