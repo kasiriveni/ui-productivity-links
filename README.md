@@ -15,12 +15,15 @@ https://websitesetup.org/wp-content/uploads/2016/10/wsu-css-cheat-sheet.pdf
 
 markdown - https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf
 
-
 ### Free Accounts
 
 sentry - https://sentry.io/welcome/
 
 circleci - https://circleci.com/
+
+### Tips
+
+Dev-tips - https://umaar.com/dev-tips/
 
 ### Browser
 
@@ -31,6 +34,14 @@ Chrome (Developer) - https://www.google.com/chrome/browser/canary.html
 Firefox - https://www.mozilla.org/en-US/firefox/new
 
 Firefox (Developer)- https://www.mozilla.org/en-US/firefox/developer
+
+Editor - https://code.visualstudio.com/
+
+Git - https://git-scm.com/
+
+GitDesktop - https://desktop.github.com/
+
+Nodejs - https://nodejs.org/en/
 
 ### Deployement
 
