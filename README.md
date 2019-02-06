@@ -55,13 +55,11 @@ https://www.heroku.com
 
 Whatfont -https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm
 
-JSON Formatter -https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa
+JSON Formatter -https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa/related?hl=en-GB
 
 Cool Clock - https://chrome.google.com/webstore/detail/cool-clock/icegcmhgphfkgglbljbkdegiaaihifce?hl=en
 
 Web-developer - https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm
-
-Page Ruler - https://chrome.google.com/webstore/detail/page-ruler/jlpkojjdgbllmedoapgfodplfhcbnbpn?hl=en-US
 
 Lorem Ipsum Generator- https://chrome.google.com/webstore/detail/lorem-ipsum-generator-def/mcdcbjjoakogbcopinefncmkcamnfkdb?hl=en-US
 
@@ -85,10 +83,7 @@ https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndn
 More - https://github.com/stefanbuck/awesome-browser-extensions-for-github
 
 ### other extensions
-
-uBlock Plus Adblocker https://chrome.google.com/webstore/detail/ublock-plus-adblocker/oofnbdifeelbaidfgpikinijekkjcicg?hl=en-US
-
-uBlock Adblocker Plus https://chrome.google.com/webstore/detail/ublock-adblocker-plus/pnhflmgomffaphmnbcogleagmloijbkd?hl=en-US
+Toggle on/off -https://chrome.google.com/webstore/detail/disable-extensions-tempor/lcfdefmogcogicollfebhgjiiakbjdje
 
 Adblock Plus https://chrome.google.com/webstore/detail/adblock-plus/cfhdojbkjhnklbpkdaibdccddilifddb/related?hl=en-US
 
@@ -103,4 +98,3 @@ Icons - https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-
 Debugger - https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome
 
 Prettier - https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode
-
