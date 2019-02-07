@@ -15,17 +15,13 @@ https://websitesetup.org/wp-content/uploads/2016/10/wsu-css-cheat-sheet.pdf
 
 markdown - https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf
 
-### Free Accounts
-
-sentry - https://sentry.io/welcome/
-
-circleci - https://circleci.com/
-
 ### Tips
 
 Dev-tips - https://umaar.com/dev-tips/
 
-### Browser
+Dev docs - https://devdocs.io/
+
+### Softwares
 
 Chrome - https://www.google.com/chrome/browser/desktop/index.html
 
@@ -51,7 +47,7 @@ http://surge.sh
 
 https://www.heroku.com
 
-### Chrome Extensions
+### Chrome Extensions 
 
 Whatfont -https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm
 
@@ -60,8 +56,6 @@ JSON Formatter -https://chrome.google.com/webstore/detail/json-formatter/bcjindc
 Cool Clock - https://chrome.google.com/webstore/detail/cool-clock/icegcmhgphfkgglbljbkdegiaaihifce?hl=en
 
 Web-developer - https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm
-
-Lorem Ipsum Generator- https://chrome.google.com/webstore/detail/lorem-ipsum-generator-def/mcdcbjjoakogbcopinefncmkcamnfkdb?hl=en-US
 
 javascript - https://chrome.google.com/webstore/detail/pretty-beautiful-javascri/piekbefgpgdecckjcpffhnacjflfoddg?hl=en
 
@@ -75,17 +69,21 @@ Redux DevTools -https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmb
 
 Vue.js devtools-https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd?hl=en
 
+### other extensions
+Toggle on/off -https://chrome.google.com/webstore/detail/disable-extensions-tempor/lcfdefmogcogicollfebhgjiiakbjdje
+
+Adblock Plus https://chrome.google.com/webstore/detail/adblock-plus/cfhdojbkjhnklbpkdaibdccddilifddb/related?hl=en-US
+
 ### Github extensions
 
 Octotree -
 https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc?hl=en-US
 
-More - https://github.com/stefanbuck/awesome-browser-extensions-for-github
+boxcutter  -https://chrome.google.com/webstore/detail/boxcutter/knapnimomamjogbajmmoefhopnebjbff
 
-### other extensions
-Toggle on/off -https://chrome.google.com/webstore/detail/disable-extensions-tempor/lcfdefmogcogicollfebhgjiiakbjdje
+octolinker - https://chrome.google.com/webstore/detail/octolinker/jlmafbaeoofdegohdhinkhilhclaklkp
 
-Adblock Plus https://chrome.google.com/webstore/detail/adblock-plus/cfhdojbkjhnklbpkdaibdccddilifddb/related?hl=en-US
+refined-github - https://chrome.google.com/webstore/detail/refined-github/hlepfoohegkhhmjieoechaddaejaokhf
 
 ### vscode 
 
@@ -98,3 +96,10 @@ Icons - https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-
 Debugger - https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome
 
 Prettier - https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode
+
+** Settings **  https://gist.github.com/kasiriveni/1f5ce3c5a4298c01c4fb29fabb371da9
+
+### Developer fonts
+
+FiraCode - https://github.com/tonsky/FiraCode
+
