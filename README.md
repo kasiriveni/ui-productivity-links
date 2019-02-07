@@ -10,10 +10,13 @@ Vscode - https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf
 
 Git - https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf
 
+markdown - https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf
+
+
+### langulage Cheet sheet
+
 Css -
 https://websitesetup.org/wp-content/uploads/2016/10/wsu-css-cheat-sheet.pdf
-
-markdown - https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf
 
 ### Tips
 
